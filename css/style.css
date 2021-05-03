@@ -57,11 +57,11 @@ header {
 }
 
 #image {
-    width: 1200px;
     height: auto;
     margin: 0 auto;
     display: block;
     border-radius: 15px;
+    max-width: 100%;
 }
 
 #img-div {
